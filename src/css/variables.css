@@ -1,0 +1,8 @@
+:root{
+    --primary:hsl(322, 100%, 66%);
+    --neutral-pale: hsl(193, 100%, 96%);
+    --neutral-dark: hsl(192, 100%, 9%);
+    --neutral-gray: hsl(208, 11%, 55%);
+
+    --icone-email: ../images/icon-email.svg;
+}
