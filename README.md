@@ -49,6 +49,8 @@ Through this project I was able to practice more my knowledge on CSS grid and Fl
 
 A very small part of the code that made me proud and that was actually my first time doing it, was when creating the responsive code, at the services section, the mobile version of the page has the images above the texts in all three services, while in the desktop version each service box has the image beside the texts and every each service the image is on the right and left side, at first glance on the design sheet I really didn't know how o approach that, but then suddenly I remmembered the "collumn-reverse" flexbox feature. I guess it's all about small victories.
 
+To see how you can add code snippets, see below:
+
 ```css
 .services .service.grow-together {
   display: flex;
